@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "pulse.min",
+    "type": "java.lang.Integer",
+    "description": "pulse min value"
+  },
+  {
+    "name": "pulse.max",
+    "type": "java.lang.Integer",
+    "description": "pulse max value"
+  }
+]}
